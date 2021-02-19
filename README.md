@@ -41,4 +41,3 @@ RCA: root cause analysis
 QAI: quality assurance investigation
 Runbook y co-review
 
-> testing
